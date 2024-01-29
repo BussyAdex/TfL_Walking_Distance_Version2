@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "s/5R9bYTJ5UlCVbi+il/5koalX3y/7SL0yjAI/MDdtn2+dDpInc/U2qctJKxVBoHhXAJQeWLnp5Q6ZM7y/hAUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BUSSYADEX\\source\\repos\\TfL_Walking_Distance_Version2\\TfL_Walking_Distance_Version2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BUSSYADEX\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512",
+    "C:\\Users\\BUSSYADEX\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\BUSSYADEX\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\BUSSYADEX\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

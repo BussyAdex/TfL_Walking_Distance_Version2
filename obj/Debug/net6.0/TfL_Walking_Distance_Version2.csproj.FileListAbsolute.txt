@@ -1,0 +1,15 @@
+C:\Users\BUSSYADEX\source\repos\TfL_Walking_Distance_Version2\bin\Debug\net6.0\TfL_Walking_Distance_Version2.exe
+C:\Users\BUSSYADEX\source\repos\TfL_Walking_Distance_Version2\bin\Debug\net6.0\TfL_Walking_Distance_Version2.deps.json
+C:\Users\BUSSYADEX\source\repos\TfL_Walking_Distance_Version2\bin\Debug\net6.0\TfL_Walking_Distance_Version2.runtimeconfig.json
+C:\Users\BUSSYADEX\source\repos\TfL_Walking_Distance_Version2\bin\Debug\net6.0\TfL_Walking_Distance_Version2.dll
+C:\Users\BUSSYADEX\source\repos\TfL_Walking_Distance_Version2\bin\Debug\net6.0\TfL_Walking_Distance_Version2.pdb
+C:\Users\BUSSYADEX\source\repos\TfL_Walking_Distance_Version2\obj\Debug\net6.0\TfL_Walking_Distance_Version2.csproj.AssemblyReference.cache
+C:\Users\BUSSYADEX\source\repos\TfL_Walking_Distance_Version2\obj\Debug\net6.0\TfL_Walking_Distance_Version2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BUSSYADEX\source\repos\TfL_Walking_Distance_Version2\obj\Debug\net6.0\TfL_Walking_Distance_Version2.AssemblyInfoInputs.cache
+C:\Users\BUSSYADEX\source\repos\TfL_Walking_Distance_Version2\obj\Debug\net6.0\TfL_Walking_Distance_Version2.AssemblyInfo.cs
+C:\Users\BUSSYADEX\source\repos\TfL_Walking_Distance_Version2\obj\Debug\net6.0\TfL_Walking_Distance_Version2.csproj.CoreCompileInputs.cache
+C:\Users\BUSSYADEX\source\repos\TfL_Walking_Distance_Version2\obj\Debug\net6.0\TfL_Walking_Distance_Version2.dll
+C:\Users\BUSSYADEX\source\repos\TfL_Walking_Distance_Version2\obj\Debug\net6.0\refint\TfL_Walking_Distance_Version2.dll
+C:\Users\BUSSYADEX\source\repos\TfL_Walking_Distance_Version2\obj\Debug\net6.0\TfL_Walking_Distance_Version2.pdb
+C:\Users\BUSSYADEX\source\repos\TfL_Walking_Distance_Version2\obj\Debug\net6.0\TfL_Walking_Distance_Version2.genruntimeconfig.cache
+C:\Users\BUSSYADEX\source\repos\TfL_Walking_Distance_Version2\obj\Debug\net6.0\ref\TfL_Walking_Distance_Version2.dll

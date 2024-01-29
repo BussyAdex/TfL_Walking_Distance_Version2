@@ -1,0 +1,12 @@
+﻿NottingHillGate,Queensway=8
+Queensway,LancasterGate=10
+LancasterGate,MarbleArch=15
+MarbleArch,BondStreet=7
+BondStreet,OxfordCircus=7
+OxfordCircus,TottenhamCourtRoad=9
+TottenhamCourtRoad,Holborn=10
+Holborn,ChanceryLane=8
+ChanceryLane,St.Paul's=14
+St.Paul's,Bank=9 
+Bank,LiverpoolStreet=10 
+
